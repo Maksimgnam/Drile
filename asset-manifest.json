@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Drile/static/css/main.47f36bf3.css",
+    "main.js": "/Drile/static/js/main.b2b78b05.js",
+    "static/media/footer.png": "/Drile/static/media/footer.e2a7f9d35a8771e6aa02.png",
+    "static/media/photo1.png": "/Drile/static/media/photo1.3e066cb54525b570db14.png",
+    "static/media/photo9.png": "/Drile/static/media/photo9.836e7d8fdb6dfe76a6b7.png",
+    "static/media/photo5.png": "/Drile/static/media/photo5.7ff30ff5c41c9f60ede6.png",
+    "static/media/photo3.png": "/Drile/static/media/photo3.2e19a034428670b07575.png",
+    "static/media/table__one.png": "/Drile/static/media/table__one.d2c06cafc5c5ed082f4e.png",
+    "static/media/photo8.png": "/Drile/static/media/photo8.b9c60d617cc5c631fd8d.png",
+    "static/media/photo7.png": "/Drile/static/media/photo7.36c94a0acf81a425e870.png",
+    "static/media/table__two.png": "/Drile/static/media/table__two.b92934645201553b88f9.png",
+    "static/media/photo2.png": "/Drile/static/media/photo2.0d1289ed60e9e0e55352.png",
+    "static/media/photo4.png": "/Drile/static/media/photo4.9f07b00f42adcf3d106f.png",
+    "static/media/table__three.png": "/Drile/static/media/table__three.8b0792981b9727f23f31.png",
+    "static/media/photo6.png": "/Drile/static/media/photo6.5ba072732aa90ffcbcd9.png",
+    "static/media/table__four.png": "/Drile/static/media/table__four.8824a20a3c8077c77bf3.png",
+    "index.html": "/Drile/index.html",
+    "main.47f36bf3.css.map": "/Drile/static/css/main.47f36bf3.css.map",
+    "main.b2b78b05.js.map": "/Drile/static/js/main.b2b78b05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f36bf3.css",
+    "static/js/main.b2b78b05.js"
+  ]
+}
