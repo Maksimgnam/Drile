@@ -1,0 +1,444 @@
+.Bestseller{
+    width: 100%;
+    height: 130vh;
+    background-color: white;
+}
+.block{
+    width: 895px;
+    height: 597px;
+    background: #F6F6F6;
+    position: absolute;
+
+    left: 624px;
+    top: 400px;
+    z-index: 1;
+    
+}
+.h1{
+    font-size: 40px;
+    font-weight: 300;
+    position: relative;
+    top: 170px;
+    padding: 30px;
+}
+.blocks{
+    width: 1150px;
+   
+    height: 342px;
+    background-color: white;
+    position: relative;
+    top: 300px;
+    left:200px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.second__blocks{
+    width: 1160px;
+   
+    height: 342px;
+    background-color: white;
+    position: relative;
+    top: 340px;
+    left:192px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.blockes{
+    width: 255px;
+    height: 342px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1);
+
+    border: 1px solid lightgray;
+    z-index: 2;
+}
+.second{
+    width: 350px;
+    height: 360px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.1);
+
+    border: 1px solid lightgray;
+    z-index: 2;
+}
+.img{
+    width: 81px;
+    height: 160px;
+    background-color: white;
+    background-image: url(photo2.png);
+    position: relative;
+    left: 79px;
+    top: 70px;
+}
+.one{
+    width: 101px;
+height: 155px;
+    background-image: url(photo3.png);
+    background-size: cover;
+   
+
+}
+.two{
+    width: 89px;
+height: 161px;
+background-image: url(photo4.png);
+background-size: cover;
+
+}
+.three{
+    width: 123px;
+height: 123px;
+background-image: url(photo5.png);
+background-size: cover;
+left: 65px;
+top: 100px;
+}
+
+.img__text{
+    position: relative;
+    top: 100px;
+
+}
+.img__one{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.img__two{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.clock__text{
+    top: 140px
+}
+.second__img__one{
+    width: 119px;
+    height: 167px;
+    left: 115px;
+    background-image: url('photo6.png');
+}
+.second__img__two{
+    width: 133px;
+    height: 134px;
+    top: 100px;
+    left: 115px;
+    background-image: url('photo7.png');
+}
+
+.second__img__three{
+    width: 133px;
+    height: 134px;
+    top: 110px;
+    left: 115px;
+    background-image: url('photo8.png');
+}
+
+
+.second__img__text{
+    position: relative;
+    top: 150px;
+
+}
+
+.second__img__text_one{
+    position: relative;
+    top: 117px;
+
+}
+.link{
+    width: 27px;
+    height: 90px;
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    flex-direction: column;
+    position: relative;
+    left: 223px;
+    top: -50px;
+
+}
+.link__block{
+    width: 27px;
+    height: 27px;
+    border: 0.2px solid lightgray;
+   
+    background-color: #FFFFFF;
+    background-size: cover;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.link__mini{
+    height: 12.993545532226562px;
+width: 15px;
+background-image: url('heart.png');
+background-size: cover;
+
+
+
+}
+.cart{
+    height: 13.162280082702637px;
+width: 14.892364501953125px;
+background-image: url('card.png');
+background-size: cover;
+
+
+}
+.cycle{
+    height: 12.360379219055176px;
+width: 15.000121116638184px;
+background-image: url('Group.png');
+background-size: cover;
+
+
+}
+.sale{
+    width: 70px;
+    height: 65px;
+    background-color: white;
+    position: relative;
+    top: -50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+   
+    position: relative;
+    top: -280px;
+    left: 185px;
+    
+}
+.sale__one{
+    width: 70px;
+    height: 30px;
+    background-color:  #F29731;
+    font-size: 15px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sale__two{
+    width: 70px;
+    height: 30px;
+    background-color:  
+    #9E0B0F;
+    font-size: 15px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.twice{
+    position: relative;
+    top: -10px;
+}
+.sale__clock{
+    position: absolute;
+    top: 14px;
+    left: 1063px;
+}
+.second__link_one{
+    position: relative;
+
+    left: 310px;
+}
+.second__link_two{
+    position: relative;
+
+    left: 310px;
+    top: -15px;
+
+}
+.second__link_three{
+    position: relative;
+
+    left: 310px;
+    top: -15px;
+}
+.second__sale{
+    position: relative;
+    left: 280px;
+}
+.third__sale{
+    position: relative;
+    left: 280px;
+    position: relative;
+    top: -247px;
+
+}
+.bed{
+    height: 580px;
+width: 1320px;
+background-color: #F7F7F7;
+border-radius: 377px 0px 0px 377px;
+position: relative;
+left: 197px;
+top: 500px;
+display: flex;
+justify-content: space-around;
+
+}
+.bed__circle{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    left: -40px;
+    top: 35px;
+    box-shadow: 0px 0px 34px 4px rgba(86, 86, 86, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bed__block{
+    width: 356px;
+    height: 227px;
+    background-color: white;
+    background-image: url('photo9.png');
+    background-size: cover;
+    position: relative;
+    left: 0;
+}
+.bed__contain{
+    width: 500px;
+    height: 500px;
+
+    position: relative;
+    top: 40px;
+
+    left: -100px;
+}
+.bedBtn{
+    height: 38px;
+    width: 204px;
+    border: none;
+    color: white;
+    background-color:  #8096BC;
+    position: relative;
+    top: 60px;
+    
+
+
+}
+
+.bed__text{
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 100px;
+    font-family: 'Federo' sans-serif;
+    font-size: 45px;
+
+
+}
+.bed__span{
+    color: 
+    #78A2CA;
+ 
+
+}
+.bed__text_p__block{
+    height: 74px;
+width: 395px;
+position: relative;
+top: 130px;
+line-height: 26px;
+
+
+}
+.bed__p{
+    font-size: 16px;
+    color: #727272;
+    font-weight: 400;
+}
+.bed__btn{
+    height: 38px;
+    width: 122px;
+ 
+    
+background-color: #434343;
+color: white;
+border: none;
+position: relative;
+top: 20px;
+}
+.bed__blockes{
+    height: 87px;
+width: 436px;
+
+position: relative;
+top: 230px;
+display: flex;
+justify-content: space-around;
+left: -10px;
+
+
+}
+.bedBlock{
+    width: 87px;
+    height: 87px;
+    background-color: white;
+    border: 0.1px solid lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.bedBlock_center{
+    height: 63px;
+width: 43px;
+
+background-image: url('one.png');
+background-size: cover;
+
+
+
+}
+.bed__one{
+    width: 47px;
+    height: 65px;
+    background-image: url('two.png');
+background-size: cover;
+
+
+}
+.bed__two{
+
+    
+   
+
+    
+    
+
+    width: 48px;
+    height: 53px;
+    background-image: url('three.png');
+    background-size: cover;
+
+}
+.bed__three{
+    width: 27px;
+    height: 53px;
+    background-image: url('four.png');
+    background-size: cover;
+
+
+}
